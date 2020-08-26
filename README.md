@@ -1,4 +1,4 @@
-# Analysis of Large Scale Social Networks: Neo4J graph Database Metadata Management Prototype
+# Neo4J graph Database Metadata Management Prototype
 
 Among the existing tools supporting a proper data governance within an organization, we will focus on metadata management software. Such tools collect and organize the metadata and interdependencies of an organization’s assets in a centralized repository in the form of a graph database. While information describing assets are important, the interaction between these assets also represents an important source of information for organizations. For example, queries use tables to create views or the definitions of a terms impacts the columns storing the information defined. In this project, we will attempt to partially reproduce such a repository by using as a starting point the AdventureWorks2017 database.
 
