@@ -1,0 +1,16 @@
+﻿[
+  {
+    "file": "test.graphml",
+    "source": "statement: nodes(1785), rels(1928)",
+    "format": "graphml",
+    "nodes": 1785,
+    "relationships": 1928,
+    "properties": 22515,
+    "time": 125,
+    "rows": 3713,
+    "batchSize": -1,
+    "batches": 0,
+    "done": true,
+    "data": null
+  }
+]

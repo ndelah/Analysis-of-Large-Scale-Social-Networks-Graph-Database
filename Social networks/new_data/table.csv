@@ -1,0 +1,92 @@
+id;label;key;schema_name;physical_id;glossary_id;schema_id;table_name;table_id;table_type;row_count;creation_date;last_modified_date
+7;Table;HumanResourcesEmployeePayHistory;HumanResources;876;882;1;EmployeePayHistory;7;BASE TABLE;316;01-03-20;26-03-20
+8;Table;SalesSalesOrderHeaderSalesReason;Sales;877;883;2;SalesOrderHeaderSalesReason;8;BASE TABLE;27647;26-02-20;04-03-20
+9;Table;SalesSalesPerson;Sales;877;883;2;SalesPerson;9;BASE TABLE;17;04-03-20;20-03-20
+10;Table;ProductionIllustration;Production;878;884;3;Illustration;10;BASE TABLE;5;28-02-20;16-03-20
+11;Table;HumanResourcesJobCandidate;HumanResources;876;882;1;JobCandidate;11;BASE TABLE;13;05-03-20;25-03-20
+12;Table;ProductionLocation;Production;878;884;3;Location;12;BASE TABLE;14;05-03-20;29-03-20
+13;Table;PersonPassword;Person;879;885;4;Password;13;BASE TABLE;19972;28-02-20;29-02-20
+14;Table;SalesSalesPersonQuotaHistory;Sales;877;883;2;SalesPersonQuotaHistory;14;BASE TABLE;163;04-03-20;20-03-20
+15;Table;PersonPerson;Person;879;885;4;Person;15;BASE TABLE;19972;07-03-20;08-03-20
+16;Table;SalesSalesReason;Sales;877;883;2;SalesReason;16;BASE TABLE;10;06-03-20;10-03-20
+17;Table;SalesSalesTaxRate;Sales;877;883;2;SalesTaxRate;17;BASE TABLE;29;12-03-20;27-03-20
+18;Table;SalesPersonCreditCard;Sales;877;883;2;PersonCreditCard;18;BASE TABLE;19118;13-03-20;30-03-20
+19;Table;PersonvAdditionalContactInfo;Person;879;885;4;vAdditionalContactInfo;19;VIEW;10;26-02-20;28-02-20
+20;Table;PersonPersonPhone;Person;879;885;4;PersonPhone;20;BASE TABLE;19972;02-03-20;16-03-20
+21;Table;HumanResourcesvEmployee;HumanResources;876;882;1;vEmployee;21;VIEW;290;26-02-20;08-03-20
+22;Table;SalesSalesTerritory;Sales;877;883;2;SalesTerritory;22;BASE TABLE;10;17-03-20;03-04-20
+23;Table;HumanResourcesvEmployeeDepartment;HumanResources;876;882;1;vEmployeeDepartment;23;VIEW;290;05-03-20;24-03-20
+24;Table;PersonPhoneNumberType;Person;879;885;4;PhoneNumberType;24;BASE TABLE;3;27-02-20;02-03-20
+25;Table;HumanResourcesvEmployeeDepartmentHistory;HumanResources;876;882;1;vEmployeeDepartmentHistory;25;VIEW;296;29-02-20;13-03-20
+26;Table;SalesvIndividualCustomer;Sales;877;883;2;vIndividualCustomer;26;VIEW;18508;04-03-20;11-03-20
+27;Table;ProductionProduct;Production;878;884;3;Product;27;BASE TABLE;504;17-03-20;20-03-20
+28;Table;SalesvPersonDemographics;Sales;877;883;2;vPersonDemographics;28;VIEW;19972;23-03-20;28-03-20
+29;Table;HumanResourcesvJobCandidate;HumanResources;876;882;1;vJobCandidate;29;VIEW;13;24-03-20;18-04-20
+30;Table;HumanResourcesvJobCandidateEmployment;HumanResources;876;882;1;vJobCandidateEmployment;30;VIEW;30;23-03-20;04-04-20
+31;Table;HumanResourcesvJobCandidateEducation;HumanResources;876;882;1;vJobCandidateEducation;31;VIEW;16;07-03-20;19-03-20
+32;Table;ProductionvProductAndDescription;Production;878;884;3;vProductAndDescription;32;VIEW;1764;24-03-20;27-03-20
+33;Table;ProductionvProductModelCatalogDescription;Production;878;884;3;vProductModelCatalogDescription;33;VIEW;6;15-03-20;01-04-20
+34;Table;ProductionvProductModelInstructions;Production;878;884;3;vProductModelInstructions;34;VIEW;131;21-03-20;01-04-20
+35;Table;SalesvSalesPerson;Sales;877;883;2;vSalesPerson;35;VIEW;17;17-03-20;09-04-20
+36;Table;SalesSalesTerritoryHistory;Sales;877;883;2;SalesTerritoryHistory;36;BASE TABLE;17;25-03-20;14-04-20
+37;Table;SalesvSalesPersonSalesByFiscalYears;Sales;877;883;2;vSalesPersonSalesByFiscalYears;37;VIEW;14;14-03-20;19-03-20
+38;Table;PersonvStateProvinceCountryRegion;Person;879;885;4;vStateProvinceCountryRegion;38;VIEW;181;04-03-20;29-03-20
+39;Table;SalesvStoreWithDemographics;Sales;877;883;2;vStoreWithDemographics;39;VIEW;701;04-03-20;29-03-20
+40;Table;SalesvStoreWithContacts;Sales;877;883;2;vStoreWithContacts;40;VIEW;753;01-04-20;18-04-20
+41;Table;ProductionScrapReason;Production;878;884;3;ScrapReason;41;BASE TABLE;16;29-02-20;20-03-20
+42;Table;SalesvStoreWithAddresses;Sales;877;883;2;vStoreWithAddresses;42;VIEW;712;15-03-20;31-03-20
+43;Table;PurchasingvVendorWithContacts;Purchasing;880;886;5;vVendorWithContacts;43;VIEW;156;02-03-20;05-03-20
+44;Table;HumanResourcesShift;HumanResources;876;882;1;Shift;44;BASE TABLE;3;03-04-20;08-04-20
+45;Table;PurchasingvVendorWithAddresses;Purchasing;880;886;5;vVendorWithAddresses;45;VIEW;104;08-03-20;25-03-20
+46;Table;ProductionProductCategory;Production;878;884;3;ProductCategory;46;BASE TABLE;4;29-03-20;05-04-20
+47;Table;PurchasingShipMethod;Purchasing;880;886;5;ShipMethod;47;BASE TABLE;5;07-03-20;31-03-20
+48;Table;ProductionProductCostHistory;Production;878;884;3;ProductCostHistory;48;BASE TABLE;395;29-03-20;06-04-20
+49;Table;ProductionProductDescription;Production;878;884;3;ProductDescription;49;BASE TABLE;762;24-03-20;18-04-20
+50;Table;SalesShoppingCartItem;Sales;877;883;2;ShoppingCartItem;50;BASE TABLE;3;26-02-20;17-03-20
+51;Table;ProductionProductDocument;Production;878;884;3;ProductDocument;51;BASE TABLE;32;27-02-20;11-03-20
+52;Table;dboDatabaseLog;dbo;881;887;6;DatabaseLog;52;BASE TABLE;1596;26-02-20;11-03-20
+53;Table;ProductionProductInventory;Production;878;884;3;ProductInventory;53;BASE TABLE;1069;27-02-20;02-03-20
+54;Table;SalesSpecialOffer;Sales;877;883;2;SpecialOffer;54;BASE TABLE;16;26-02-20;18-03-20
+55;Table;dboErrorLog;dbo;881;887;6;ErrorLog;55;BASE TABLE;0;28-02-20;14-03-20
+56;Table;ProductionProductListPriceHistory;Production;878;884;3;ProductListPriceHistory;56;BASE TABLE;395;28-02-20;24-03-20
+57;Table;PersonAddress;Person;879;885;4;Address;57;BASE TABLE;19614;29-02-20;06-03-20
+58;Table;SalesSpecialOfferProduct;Sales;877;883;2;SpecialOfferProduct;58;BASE TABLE;538;02-03-20;19-03-20
+59;Table;ProductionProductModel;Production;878;884;3;ProductModel;59;BASE TABLE;128;27-02-20;20-03-20
+60;Table;PersonAddressType;Person;879;885;4;AddressType;60;BASE TABLE;6;04-03-20;27-03-20
+61;Table;PersonStateProvince;Person;879;885;4;StateProvince;61;BASE TABLE;181;28-02-20;02-03-20
+62;Table;ProductionProductModelIllustration;Production;878;884;3;ProductModelIllustration;62;BASE TABLE;7;27-02-20;06-03-20
+63;Table;dboAWBuildVersion;dbo;881;887;6;AWBuildVersion;63;BASE TABLE;1;07-03-20;22-03-20
+64;Table;ProductionProductModelProductDescriptionCulture;Production;878;884;3;ProductModelProductDescriptionCulture;64;BASE TABLE;762;07-03-20;22-03-20
+65;Table;ProductionBillOfMaterials;Production;878;884;3;BillOfMaterials;65;BASE TABLE;2679;28-02-20;02-03-20
+66;Table;SalesStore;Sales;877;883;2;Store;66;BASE TABLE;701;26-02-20;02-03-20
+67;Table;ProductionProductPhoto;Production;878;884;3;ProductPhoto;67;BASE TABLE;101;03-03-20;05-03-20
+68;Table;ProductionProductProductPhoto;Production;878;884;3;ProductProductPhoto;68;BASE TABLE;504;02-03-20;15-03-20
+69;Table;ProductionTransactionHistory;Production;878;884;3;TransactionHistory;69;BASE TABLE;113443;28-02-20;06-03-20
+70;Table;ProductionProductReview;Production;878;884;3;ProductReview;70;BASE TABLE;4;09-03-20;12-03-20
+71;Table;PersonBusinessEntity;Person;879;885;4;BusinessEntity;71;BASE TABLE;20777;07-03-20;12-03-20
+72;Table;ProductionTransactionHistoryArchive;Production;878;884;3;TransactionHistoryArchive;72;BASE TABLE;89253;14-03-20;17-03-20
+73;Table;ProductionProductSubcategory;Production;878;884;3;ProductSubcategory;73;BASE TABLE;37;05-03-20;28-03-20
+74;Table;PersonBusinessEntityAddress;Person;879;885;4;BusinessEntityAddress;74;BASE TABLE;19614;26-02-20;13-03-20
+75;Table;PurchasingProductVendor;Purchasing;880;886;5;ProductVendor;75;BASE TABLE;460;13-03-20;07-04-20
+76;Table;PersonBusinessEntityContact;Person;879;885;4;BusinessEntityContact;76;BASE TABLE;909;26-02-20;28-02-20
+77;Table;ProductionUnitMeasure;Production;878;884;3;UnitMeasure;77;BASE TABLE;38;26-02-20;12-03-20
+78;Table;PurchasingVendor;Purchasing;880;886;5;Vendor;78;BASE TABLE;104;09-03-20;21-03-20
+79;Table;PersonContactType;Person;879;885;4;ContactType;79;BASE TABLE;20;19-03-20;13-04-20
+80;Table;SalesCountryRegionCurrency;Sales;877;883;2;CountryRegionCurrency;80;BASE TABLE;109;05-03-20;14-03-20
+81;Table;PersonCountryRegion;Person;879;885;4;CountryRegion;81;BASE TABLE;238;06-03-20;29-03-20
+82;Table;ProductionWorkOrder;Production;878;884;3;WorkOrder;82;BASE TABLE;72591;23-03-20;05-04-20
+83;Table;PurchasingPurchaseOrderDetail;Purchasing;880;886;5;PurchaseOrderDetail;83;BASE TABLE;8845;27-03-20;17-04-20
+84;Table;SalesCreditCard;Sales;877;883;2;CreditCard;84;BASE TABLE;19118;02-03-20;15-03-20
+85;Table;ProductionCulture;Production;878;884;3;Culture;85;BASE TABLE;8;27-02-20;08-03-20
+86;Table;ProductionWorkOrderRouting;Production;878;884;3;WorkOrderRouting;86;BASE TABLE;67131;28-02-20;03-03-20
+87;Table;SalesCurrency;Sales;877;883;2;Currency;87;BASE TABLE;105;26-03-20;04-04-20
+88;Table;PurchasingPurchaseOrderHeader;Purchasing;880;886;5;PurchaseOrderHeader;88;BASE TABLE;4012;22-03-20;23-03-20
+89;Table;SalesCurrencyRate;Sales;877;883;2;CurrencyRate;89;BASE TABLE;13532;20-03-20;01-04-20
+90;Table;SalesCustomer;Sales;877;883;2;Customer;90;BASE TABLE;19820;03-04-20;11-04-20
+91;Table;HumanResourcesDepartment;HumanResources;876;882;1;Department;91;BASE TABLE;16;06-03-20;19-03-20
+92;Table;ProductionDocument;Production;878;884;3;Document;92;BASE TABLE;13;17-03-20;06-04-20
+93;Table;SalesSalesOrderDetail;Sales;877;883;2;SalesOrderDetail;93;BASE TABLE;121317;05-04-20;29-04-20
+94;Table;PersonEmailAddress;Person;879;885;4;EmailAddress;94;BASE TABLE;19972;29-02-20;22-03-20
+95;Table;HumanResourcesEmployee;HumanResources;876;882;1;Employee;95;BASE TABLE;290;22-03-20;29-03-20
+96;Table;SalesSalesOrderHeader;Sales;877;883;2;SalesOrderHeader;96;BASE TABLE;31465;27-03-20;10-04-20
+97;Table;HumanResourcesEmployeeDepartmentHistory;HumanResources;876;882;1;EmployeeDepartmentHistory;97;BASE TABLE;296;28-03-20;16-04-20

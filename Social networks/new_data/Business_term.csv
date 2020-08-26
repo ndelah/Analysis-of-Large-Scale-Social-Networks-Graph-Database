@@ -1,0 +1,49 @@
+id;label;name;definition;security_classification;difficulty_harmonization;glossary_id;creation_date;last_modified_date
+842;Business term;Business Entity;an organization created by one or more natural persons to carry on a trade or business;Restricted;medium;882;10-03-20;14-04-20
+843;Business term;Account; a formal business arrangement providing for regular dealings or services (such as banking, advertising, or store credit) and involving the establishment and maintenance of an account;Protected;high;883;02-04-20;03-05-20
+844;Business term;Revenues;income, especially when of an organization and of a substantial nature;Restricted;high;883;20-03-20;06-04-20
+845;Business term;Sales;Sales are activities related to selling or the number of goods or services sold in a given targeted time period;Restricted;high;883;15-03-20;13-04-20
+846;Business term;Availability;the quality of being able to be used or obtained;;medium;884;14-04-20;26-06-20
+847;Business term;Average Lead Time;a lead time is the latency between the initiation and completion of a process;Restricted;low;886;14-04-20;12-05-20
+848;Business term;Credit;the ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future;Confidential;medium;883;22-03-20;01-06-20
+849;Business term;Currency;a system of money in general use in a particular country;Unrestricted;low;883;18-03-20;12-05-20
+850;Business term;Customer;a person who buys goods or services from a shop or business;Confidential;high;883;04-03-20;22-03-20
+851;Business term;Department;A department is one of the sections in an organization such as a government, business, or university. A department is also one of the sections in a large shop.;Restricted;medium;882;03-03-20;20-04-20
+852;Business term;Industry Category;Industry classification or industry taxonomy is a type of economic taxonomy that organizes companies into industrial groupings based on similar production processes, similar products, or similar behavior in financial markets.;Unrestricted;medium;882;04-03-20;02-05-20
+853;Business term;Freight;goods transported in bulk by truck, train, ship, or aircraft.;Restricted;low;886;04-03-20;30-04-20
+854;Business term;LaborHours;Labor hours means the total number of projected hours or actual hours to be worked or that have been worked by workers receiving an hourly wage who are directly employed on the site of the public works project.;Restricted;low;884;05-03-20;31-03-20
+855;Business term;Receipt;the action of receiving something or the fact of its being received.;Protected;medium;886;06-03-20;03-05-20
+856;Business term;Manufacturer;a person or company that makes goods for sale.;Restricted;medium;884;04-03-20;03-05-20
+857;Business term;Order;The arrangement or disposition of people or things in relation to each other according to a particular sequence, pattern, or method.;Confidential;high;883;06-03-20;07-03-20
+858;Business term;Vendor;a person or company offering something for sale, especially a trader in the street.;Restricted;high;883;04-03-20;05-03-20
+859;Business term;Category;a class or division of people or things regarded as having particular shared characteristics.;Unrestricted;high;883;08-03-20;13-03-20
+860;Business term;Product;an article or substance that is manufactured or refined for sale.;Protected;high;884;05-03-20;23-03-20
+861;Business term;Product model;The Product Model is an Unified Model Language (UML) model in Rational Software Architect (RSA) that contains all the product definitions to allow detailed description of the building blocks of insurance products in a structured fashion.;Protected;medium;884;12-03-20;02-05-20
+862;Business term;Purchase order;A purchase order (PO) is a commercial document and first official offer issued by a buyer to a seller indicating types, quantities, and agreed prices for products or services.;Protected;medium;886;13-03-20;29-04-20
+863;Business term;Reference order;Reference Order means the Order (i) Referring Certain Cases to the Bankruptcy Court and (ii) allocating responsibilities between the District Court and the Bankruptcy Court,;Confidential;medium;884;03-03-20;18-03-20
+864;Business term;Rejected product;Rejected Product means batches of Product or Pipeline Product which are either (i) lost in production, or (ii)  not  suitable for final release.;Restricted;low;883;12-03-20;30-04-20
+865;Business term;Sales order;an order issued by a business or sole trader to a customer. A sales order may be for products and/or services.;Protected;high;883;04-03-20;07-05-20
+866;Business term;Sales Person;An individual who sells goods and services to other entities. The successfulness of a salesperson is usually measured by the amount of sales he or she is able to make during a given period and how good that person is in persuading individuals to make a purchase. If a salesperson is employed by a company, in some cases compensation can be decreased or increased based on the amount of goods or services sold.;Protected;high;883;12-03-20;30-04-20
+867;Business term;SalesYTD;Year to date (YTD) refers to the period of time beginning the first day of the current calendar yearcalendar year or fiscal year up to the current date. ;Restricted;medium;883;12-03-20;08-04-20
+868;Business term;Shift;a group of workers who do a job for a period of time during the day or night, or the period of time itself:;Restricted;medium;882;09-03-20;08-05-20
+869;Business term;Sick leave;leave of absence granted because of illness.;Confidential;low;882;05-03-20;18-03-20
+870;Business term;Special offer;a product or service that is sold at a lower than usual price in order encourage people to buy or use it, or the act of offering goods and services in this way:;Unrestricted;medium;883;18-03-20;21-03-20
+871;Business term;Standard cost;the estimated cost of a process, resource, or item used in a manufacturing enterprise, entered in an account and compared with the actual cost so that anomalies are readily detectable.;Protected;medium;884;14-03-20;14-05-20
+872;Business term;Standard price;A uniform price that is pre-established for services or goods that is based on cost of replacement, historical prices or the analysis of it competitive market position.;Restricted;medium;886;18-03-20;03-06-20
+873;Business term;Stocked quantity;Amount of items of a certain product in stock, so immediately available;Restricted;medium;885;09-03-20;20-05-20
+874;Business term;Transaction;an instance of buying or selling something.;Protected;high;884;08-03-20;09-03-20
+5000;Business term;Clause;;;;885;05-03-20;05-03-20
+5001;Business term;Competitor;;;;883;06-03-20;06-03-20
+5002;Business term;Invoice;;;;883;07-03-20;07-03-20
+5003;Business term;After-sales service;;;;883;08-03-20;08-03-20
+5004;Business term;Store;;;;883;09-03-20;09-03-20
+5005;Business term;Ship date;;;;884;10-03-20;10-03-20
+5006;Business term;National ID Number;;;;885;11-03-20;11-03-20
+5007;Business term;Job Candidate;;;;885;12-03-20;12-03-20
+5008;Business term;Complaint;;;;883;13-03-20;13-03-20
+5009;Business term;Complaint rate;;;;885;14-03-20;14-03-20
+5010;Business term;Order date;;;;886;15-03-20;15-03-20
+5011;Business term;Received date;;;;886;16-03-20;16-03-20
+5012;Business term;Work order;;;;885;17-03-20;17-03-20
+5013;Business term;SKU;;;;884;18-03-20;18-03-20
+875;Business term;VacationHours;Accrued vacation hours is the amount of vacation time that an employee has earned as per a company's employee benefit policy, but which has not yet been used or paid.;Confidential;low;882;15-03-20;10-05-20

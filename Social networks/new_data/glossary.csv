@@ -1,0 +1,7 @@
+schema_name;id;label;name;creation_date;last_modified_date
+HumanResources;882;Glossary;Human Resources Glossary;01-03-20;18-03-20
+Sales;883;Glossary;Sales Glossary;16-02-20;22-02-20
+Production;884;Glossary;Production Glossary;03-02-20;14-04-20
+Person;885;Glossary;Person Glossary;05-03-20;07-03-20
+Purchasing;886;Glossary;Purchasing Glossary;10-02-20;11-02-20
+dbo;887;Glossary;dbo;08-02-20;26-02-20

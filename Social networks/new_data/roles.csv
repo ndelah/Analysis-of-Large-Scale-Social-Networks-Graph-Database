@@ -1,0 +1,8 @@
+id;label;name;description;creation_date;last_modified_date
+914;Role;Business steward;Person in charge to ensure the assets within the platform is well aligned with the need of the business;01-01-20;01-01-20
+915;Role;Chief data officer;A chief data officer (CDO) is a corporate officer responsible for enterprise-wide governance and utilization of information as an asset, via data processing, analysis, data mining, information trading and other means. ;01-01-20;01-01-20
+916;Role;Community manager;Person in charge to manage the community and to assign the appropriate responsibilities to the different users;01-01-20;01-01-20
+917;Role;Issue manager;Person in charge to resolve issue when one occur. ;01-01-20;01-01-20
+918;Role;Owner;Person who have the responsibility towards the data assets;01-01-20;01-01-20
+919;Role;Subject matter expert;Person who are consult about specific topic to provide their opinion.;01-01-20;01-01-20
+920;Role;Technical steward;Person in charge to implement the technical implication of the definition;01-01-20;01-01-20

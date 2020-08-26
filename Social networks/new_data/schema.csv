@@ -1,0 +1,7 @@
+id;label;schema_name;Node (vlookup);physical_id;glossary_id;creation_date;last_modified_date
+1;Schema;HumanResources;1;876;882;18-02-20;20-02-20
+2;Schema;Sales;2;877;883;19-02-20;21-02-20
+3;Schema;Production;3;878;884;20-02-20;23-02-20
+4;Schema;Person;4;879;885;21-02-20;26-02-20
+5;Schema;Purchasing;5;880;886;22-02-20;24-02-20
+6;Schema;dbo;6;881;887;23-02-20;27-02-20

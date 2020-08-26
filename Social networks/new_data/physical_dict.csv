@@ -1,0 +1,7 @@
+schema_name;id;label;name;creation_date;last_modified_date
+HumanResources;876;Physical data dictionary;Human Resources Physical data dictionary;25-02-20;24-04-20
+Sales;877;Physical data dictionary;Sales Physical data dictionary;15-02-20;18-04-20
+Production;878;Physical data dictionary;Production Physical data dictionary;10-02-20;08-04-20
+Person;879;Physical data dictionary;Person Physical data dictionary;01-03-20;22-03-20
+Purchasing;880;Physical data dictionary;Purchasing Physical data dictionary;13-02-20;10-03-20
+dbo;881;Physical data dictionary;dbo Physical data dictionary;17-02-20;17-03-20

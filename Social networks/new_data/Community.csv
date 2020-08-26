@@ -1,0 +1,7 @@
+id;name schema;name;physical_id;glossary_id
+908;HumanResources;Human resources community;876;882
+909;Sales;Sales community;877;883
+910;Production;Production community;878;884
+911;Person;Person community;879;885
+912;Purchasing;Purchasing community;880;886
+913;dbo;Monitoring community;881;887
